@@ -6,16 +6,28 @@
   <img src="https://komarev.com/ghpvc/?username=laddumanjhi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 I’m currently learning **React JS**
+<!-- About Me -->
+<h3 align="left">🙋‍♀️ About Me:</h3>
+<ul>
+  <li>🎓 I'm a second-year Computer Science Engineering student.</li>
+  <li>🧠 I have a curious mindset and a passion for solving real-world problems, especially in team environments.</li>
+  <li>💻 I'm a full-stack developer with a strong foundation in <strong>C</strong> and <strong>C++</strong>.</li>
+  <li>🚀 I'm always looking to improve and explore new technologies.</li>
+  <li>🤝 I enjoy collaborating on team projects that challenge my thinking and expand my skills.</li>
+  <li>🌱 I’m currently learning <strong>React JS</strong>.</li>
+  <li>💬 Ask me about <strong>C and C++</strong>.</li>
+  <li>📫 How to reach me: <strong>kajalmanjhi0407@gmail.com</strong>.</li>
+  <li>⚡ Fun fact: <strong>I just started learning GitHub</strong>.</li>
+</ul>
 
-- 💬 Ask me about **C and C++**
+<!-- Contact -->
+<h3 align="left">📬 Contact Me:</h3>
+<p align="left">
+  📧 Email: <a href="mailto:kajalmanjhi0407@gmail.com">kajalmanjhi0407@gmail.com</a>
+</p>
 
-- 📫 How to reach me: **kajalmanjhi0407@gmail.com**
-
-- ⚡ Fun fact: **I just started learning GitHub**
-
-
-<h3 align="left">Languages and Tools:</h3>
+<!-- Languages and Tools -->
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -36,6 +48,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
 </p>
+
+<!-- Featured Projects Section -->
+<h3 align="left">🚀 Featured Projects:</h3>
+<ul>
+  <li><a href="https://github.com/laddumanjhi/Hackthon-Projects" target="_blank">Hackthon Projects</a> – A collection of hackathon submissions and prototypes.</li>
+  <li><a href="https://github.com/laddumanjhi/Vani-Ai" target="_blank">Vani AI</a> – A voice assistant app powered by AI.</li>
+  <li><a href="https://github.com/laddumanjhi/Inventory-Management-System" target="_blank">Inventory Management System</a> – A project to manage stock and items efficiently.</li>
+</ul>
 
 <!-- GitHub Stats - centered -->
 <p align="center">
