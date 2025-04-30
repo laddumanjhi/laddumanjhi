@@ -57,15 +57,10 @@
   <li><a href="https://github.com/laddumanjhi/Inventory-Management-System" target="_blank">Inventory Management System</a> – A project to manage stock and items efficiently.</li>
 </ul>
 
-<!-- GitHub Stats - centered -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laddumanjhi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laddumanjhi&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laddumanjhi" alt="GitHub Streak" />
-</p>
+<!-- GitHub Stats - centered with custom CSS -->
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laddumanjhi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laddumanjhi&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laddumanjhi&theme=dracula&hide_border=false" height="150" alt="Streak Stats"  />
+</div>
