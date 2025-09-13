@@ -8,7 +8,7 @@
 
 
 ## 🙋‍♀️ About Me
-- 🎓 Second-year **Computer Science Engineering** student  
+- 🎓 3rd Year **Computer Science Engineering** student  
 - 🧠 Curious mindset & passion for solving **real-world problems** in team environments  
 - 💻 Full-stack developer with strong foundation in **C** and **C++**  
 - 🚀 Always exploring & improving with new technologies  
