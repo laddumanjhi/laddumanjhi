@@ -51,11 +51,23 @@
   </a> 
 </p>
 
-
 ## 🚀 Featured Projects
-- 🔹 [**Hackathon Projects**](https://github.com/laddumanjhi/Hackthon-Projects) – A collection of hackathon submissions & prototypes  
-- 🔹 [**Vani AI**](https://github.com/laddumanjhi/Vani-Ai) – A voice assistant app powered by AI  
-- 🔹 [**Inventory Management System**](https://github.com/laddumanjhi/Inventory-Management-System) – Stock & items management made efficient  
+
+### 🔹 [Hackathon Projects](https://github.com/laddumanjhi/Hackthon-Projects)  
+💡 A collection of hackathon submissions & prototypes built under time constraints.  
+🛠️ *Tech Stack:* C, C++, HTML, CSS  
+
+
+
+### 🔹 [Vani AI](https://github.com/laddumanjhi/Vani-Ai)  
+🎙️ An AI-powered **voice assistant app** that responds to commands and helps automate tasks.  
+🛠️ *Tech Stack:* Python, AI/ML Concepts  
+
+
+
+### 🔹 [Inventory Management System](https://github.com/laddumanjhi/Inventory-Management-System)  
+📦 A system to **track, update, and manage stock** efficiently with a user-friendly interface.  
+🛠️ *Tech Stack:* C++, File Handling  
 
 
 ## 📊 GitHub Stats
