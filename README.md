@@ -18,6 +18,11 @@
 - 📫 Reach me at: **kajalmanjhi0407@gmail.com**  
 - ⚡ Fun fact: Just started learning **GitHub** 🎉  
 
+<h3 align="left">🏆 Hackathon Experience</h3>
+
+- 🥇 **Navonmesh Hackathon** – University-level hackathon organized in collaboration with **RNTU** and **SCOPE University**.  
+- 💡 **HackPrix** – An innovative hackathon organized by **Lord Institute, Hyderabad**, focused on creativity and problem-solving.  
+- 🚀 **RNTU Tech-Fest Hackathon** – Participated in the flagship **Tech-Fest** hackathon at RNTU, showcasing technical and teamwork skills.  
 
 
 ## 📬 Contact Me
