@@ -13,7 +13,7 @@
 - 💻 Full-stack developer with strong foundation in **C** and **C++**  
 - 🚀 Always exploring & improving with new technologies  
 - 🤝 Love collaborating on **team projects** that challenge my thinking  
-- 🌱 Currently learning **React JS**  
+- 🌱 Currently learning **Java**  
 - 💬 Ask me about **C and C++**  
 - 📫 Reach me at: **kajalmanjhi0407@gmail.com**  
 - ⚡ Fun fact: Just started learning **GitHub** 🎉  
